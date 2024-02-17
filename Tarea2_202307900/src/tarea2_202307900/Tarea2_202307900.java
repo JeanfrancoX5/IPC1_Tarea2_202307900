@@ -14,7 +14,11 @@ public class Tarea2_202307900 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+
+        //Aquí se imprimen los datos solicitados:
+        Sytem.out.println("Nombre completo: Jonathan Jeanfranco Chirix Santizo");
+
+        System.out.println("Carné: 202307900");
     }
     
 }
